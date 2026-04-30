@@ -5,6 +5,7 @@
 - 🎓 Studied Bachelor of Science in Information Technology at Cavite State University - Imus</br>
 - 🌱 Currently upscaling my coding and development skills</br>
 - 🔍 Currently looking for Junior Developer roles where I can apply my skills</br>
+- 🚀 [Checkout my web portfolio to know more about me](https://shinkyu04.github.io/Portfolio/)
 
 
 ## 🌐 Socials:
